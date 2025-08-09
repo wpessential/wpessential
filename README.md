@@ -1,10 +1,13 @@
 ### WPessential 👋
 ---
-**WPessential** is a dedicated WordPress solutions provider specializing in delivering high-quality, tailored services for businesses and individuals. With deep expertise in WordPress development, customization, and optimization, WPessential creates powerful, scalable, and user-friendly websites that align perfectly with clients’ goals. Our team combines technical proficiency with creative problem-solving to craft solutions that not only look great but also perform flawlessly. We pride ourselves on delivering excellence in every project—whether it’s building from scratch, enhancing functionality, improving performance, or ensuring robust security. By staying at the forefront of WordPress innovation and following industry best practices, WPessential ensures every client receives a reliable, future-ready website that drives growth, engagement, and digital success.
 
+**WPessential** is a dedicated WordPress solutions provider specializing in delivering high-quality, tailored services for businesses and individuals. With deep expertise in WordPress development, customization, and optimization, WPessential creates powerful, scalable, and user-friendly websites that align perfectly with clients’ goals. Our team combines technical proficiency with creative problem-solving to craft solutions that not only look great but also perform flawlessly. We pride ourselves on delivering excellence in every project—whether it’s building from scratch, enhancing functionality, improving performance, or ensuring robust security. By staying at the forefront of WordPress innovation and adhering to industry best practices, WPessential ensures that every client receives a reliable, future-ready website that drives growth, engagement, and digital success.
 
+---
 
 ### ✨ Our Works ✨
+---
+
 - [Visit WPEssential ORG](https://wpessential.org)
   - #### Plugins
     - ##### WPEssential
